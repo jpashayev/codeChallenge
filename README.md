@@ -1,10 +1,8 @@
 # codeChallenge
-Revature Weekly code challenges - Weekly Challenge 05/16/2022
+## Revature Weekly code challenges - Weekly Challenge 05/16/2022
 
+## Sum List
 ![sumListSol](https://user-images.githubusercontent.com/40347155/169075595-13e93f7f-ddef-42b9-adc6-0e00c9b98ca6.JPG)
-![stackSol](https://user-images.githubusercontent.com/40347155/169075619-61a62107-56c4-4395-9e97-cdde0010fe61.JPG)
-
-Sum List
 ```
 import java.util.*;
 
@@ -37,7 +35,8 @@ class Solution {
     System.out.println(Integer.valueOf(firstNumber.toString()) + Integer.valueOf(secondNumber.toString()));
 ```
 
-Stack Sol
+##Stack Sol
+![stackSol](https://user-images.githubusercontent.com/40347155/169075619-61a62107-56c4-4395-9e97-cdde0010fe61.JPG)
 ```
 import java.util.*;
 
