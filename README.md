@@ -1,5 +1,5 @@
-# codeChallenge
-## Revature Weekly code challenges - Weekly Challenge 05/16/2022
+# Revature weekly code challenges
+## Challenge 05/16/2022 - 05/20/2022
 
 ## Sum List
 ![sumListSol](https://user-images.githubusercontent.com/40347155/169075595-13e93f7f-ddef-42b9-adc6-0e00c9b98ca6.JPG)
