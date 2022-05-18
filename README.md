@@ -5,6 +5,7 @@ Revature Weekly code challenges - Weekly Challenge 05/16/2022
 ![stackSol](https://user-images.githubusercontent.com/40347155/169075619-61a62107-56c4-4395-9e97-cdde0010fe61.JPG)
 
 Sum List
+```
 import java.util.*;
 
 class Solution {
@@ -34,9 +35,10 @@ class Solution {
     secondNumber.reverse();
     System.out.printf("%s + %s = ", firstNumber.toString(), secondNumber.toString());
     System.out.println(Integer.valueOf(firstNumber.toString()) + Integer.valueOf(secondNumber.toString()));
-
+```
 
 Stack Sol
+```
 import java.util.*;
 
 class Solution {
@@ -64,3 +66,4 @@ class Solution {
     System.out.println(minValue);
   }
 }
+```
